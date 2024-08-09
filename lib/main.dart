@@ -15,5 +15,5 @@ void main() {
   );
 }
 
-
-// get init untuk melakukan project biasa menjadi project get_cli
+/// Get init digunakan untuk membuat flutter project biasa 
+/// menjadi project get_cli
